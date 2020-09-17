@@ -1,7 +1,7 @@
 ## Tindev Web (React.js)
 
-<img src="https://github.com/vbeloti/tindev-web/blob/master/.github/tindev-1.png?raw=true" alt="Tindev" />
-<img src="https://github.com/vbeloti/tindev-web/blob/master/.github/tindev-2.png?raw=true" alt="Tindev" />
+<img src="https://github.com/vbeloti/tindev-web/blob/master/.github/tindev-web-1.png?raw=true" alt="Tindev" />
+<img src="https://github.com/vbeloti/tindev-web/blob/master/.github/tindev-web-2.png?raw=true" alt="Tindev" />
 
 In the project directory, you can run:
 
